@@ -1,0 +1,4 @@
+body {
+    min-height: 100vh; /*permite que o body tenha 100% do espaço de visualização disponível na página*/
+    background-color: #F1EDE0ff;
+}
